@@ -9,7 +9,7 @@ sites:
   - name: andrewnet authentication
     url: $AUTHURL
   - name: andrewnet cloud cdn
-    url: https://en.wikipedia.org
+    url: https://cloud.cdn.andrewnet.net
   - name: nextcloud
     url: https://nxtc.andrewnet.net/
   - name: njit website
