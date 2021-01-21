@@ -21,9 +21,9 @@ status-website:
   cname: uptime.andrewnet.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cloud.cdn.andrewnet.net/images/assets/a-circle-favicon-inverted.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "the official andrewnet status page"
   introMessage: 
   navbar:
     - title: Status
