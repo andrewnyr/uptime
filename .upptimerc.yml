@@ -6,7 +6,7 @@ repo: uptime
 sites:
   - name: andrewnet
     url: https://www.andrewnet.net
-    icon:https://cloud.cdn.andrewnet.net/images/assets/a-circle-favicon-inverted.png
+    icon: https://cloud.cdn.andrewnet.net/images/assets/a-circle-favicon-inverted.png
   - name: andrewnet authentication
     url: $AUTHURL
     icon: https://cloud.cdn.andrewnet.net/images/assets/a-circle-favicon-inverted.png
@@ -16,7 +16,6 @@ sites:
   - name: nextcloud
     url: https://nxtc.andrewnet.net/
     icon: https://cloud.cdn.andrewnet.net/images/assets/a-circle-favicon-inverted.png
-
   - name: njit website
     url: https://web.njit.edu/~aja9/
 
