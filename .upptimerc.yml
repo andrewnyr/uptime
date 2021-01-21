@@ -26,6 +26,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://cloud.cdn.andrewnet.net/images/assets/a-circle-favicon-inverted.png
+  logoHref: https://www.andrewnet.net
+  favicon: https://cloud.cdn.andrewnet.net/favicon.ico
   name: Upptime
   introTitle: "the official andrewnet status page"
   introMessage: 
