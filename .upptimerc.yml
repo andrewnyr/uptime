@@ -8,7 +8,7 @@ sites:
     url: https://www.andrewnet.net
   - name: andrewnet authentication
     url: $AUTHURL
-  - name: cloud cdn
+  - name: andrewnet cloud cdn
     url: https://en.wikipedia.org
   - name: nextcloud
     url: https://nxtc.andrewnet.net/
