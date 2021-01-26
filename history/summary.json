@@ -4,9 +4,9 @@
     "url": "https://www.andrewnet.net",
     "icon": "https://cloud.cdn.andrewnet.net/images/assets/a-circle-favicon-inverted.png",
     "slug": "andrewnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 984,
     "timeMonth": 984,
     "timeYear": 984,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-26": 0
+    }
   },
   {
     "name": "andrewnet authentication",
